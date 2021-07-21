@@ -1,0 +1,4 @@
+lsi_similarity.index
+tokened_corpus.dict
+vectorized_corpus.mm
+vectorized_corpus.mm.index
