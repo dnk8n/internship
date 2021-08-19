@@ -11,3 +11,5 @@ lda.train.model.state
 lda.train.model.state.sstats.npy
 test.csv
 train.csv
+lda.corpus_text.test.json
+lda.corpus_text.train.json
